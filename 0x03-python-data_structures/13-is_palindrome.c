@@ -1,4 +1,4 @@
-#include "lists.h"
+#include<Python>
 
 /**
  * reverse_listint - reverses a linked list
